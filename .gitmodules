@@ -4,3 +4,6 @@
 [submodule "mfe-products"]
 	path = mfe-products
 	url = https://github.com/Dev-Harmattan/mfe-products.git
+[submodule "mfe-container-host"]
+	path = mfe-container-host
+	url = https://github.com/Dev-Harmattan/mfe-container-host.git
