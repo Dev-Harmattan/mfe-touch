@@ -1,0 +1,3 @@
+[submodule "mfe-cart"]
+	path = mfe-cart
+	url = https://github.com/Dev-Harmattan/mfe-cart.git
